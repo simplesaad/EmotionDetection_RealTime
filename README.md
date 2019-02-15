@@ -5,7 +5,7 @@ The model is trained on the **FER-2013** dataset which was published on Internat
 
 ## Dataset
 Due to the limitations of upload size in github, I have uploaded the zip file of the dataset 'data.zip' on a google drive.
-https://drive.google.com/open?id=1yCxHw7aOAPYTVz9VKm2Yax1sxLLtJgW Download the data.zip file and unzip it in the directory.
+Download the [data.zip](https://drive.google.com/file/d/1yCxHw7aOAPYTVz9VKm2Yax1sxLLtJgWk/view?usp=sharing) file and unzip it in the directory.
 
 ## Dependencies
 
